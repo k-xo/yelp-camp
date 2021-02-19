@@ -21,7 +21,7 @@ mapbox and mongodb
 * Cloudinary for image upload and storage
 * Passport, passport-local, and passport-local-mongoose for authentication and authorization
 * Google maps API and node-geocoder to display the physical location of a campground on a map
-* EJS to templating
+* EJS templating
 * Database hosted with MongoDB Atlas
 * Bootstrap design
 
