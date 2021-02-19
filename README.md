@@ -11,9 +11,7 @@ Feel free to clone the repository and use locally, however the site relies on se
 mapbox and mongodb
 
 # Features
-* Search for campgrounds using title, description, or author username
 * User authorization/authentication using Passport.js
-* Sign up for an account and optionally upload an avatar
 * Create a new campground
 * Edit an existing campground
 * Review a campground and see reviews
