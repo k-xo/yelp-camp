@@ -11,22 +11,19 @@ Feel free to clone the repository and use locally, however the site relies on se
 mapbox and mongodb
 
 # Features
-Search for campgrounds using title, description, or author username
-User authorization/authentication using Passport.js
-Sign up for an account and optionally upload an avatar
-Create a new campground
-Edit an existing campground
-Review a campground and see the average rating of campgrounds
-View user profiles including posted campgrounds and reviews they've created
-Admin permissions that allow the editing/deletion of other users' campgrounds and reviews
-RESTful routing using express and mongoose
-Cloudinary for image upload and storage
-Passport, passport-local, and passport-local-mongoose for authentication and authorization
-Google maps API and node-geocoder to display the physical location of a campground on a map
-EJS to template and display pages
-Database hosted with MongoDB Atlas
-Bootstrap used to implement responsive design
-Connect-flash for better error display to users
+* Search for campgrounds using title, description, or author username
+* User authorization/authentication using Passport.js
+* Sign up for an account and optionally upload an avatar
+* Create a new campground
+* Edit an existing campground
+* Review a campground and see reviews
+* RESTful routing using express
+* Cloudinary for image upload and storage
+* Passport, passport-local, and passport-local-mongoose for authentication and authorization
+* Google maps API and node-geocoder to display the physical location of a campground on a map
+* EJS to templating
+* Database hosted with MongoDB Atlas
+* Bootstrap design
 
 
 # Stack
