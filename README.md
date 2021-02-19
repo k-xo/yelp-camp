@@ -1,7 +1,7 @@
 # Yelp-camp
 
 YelpCamp
-YelpCamp is a full-stack (M.E.N.), RESTful web application project created alongside the Udemy course - The Web Developer Bootcamp by Colt Steele.
+YelpCamp is a full-stack RESTful web application built using Node, MongoDB, Express and EJS
 
 # Live Demo
 You can preview a live demo of this app on Heroku. - https://ancient-escarpment-98633.herokuapp.com/
